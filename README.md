@@ -32,7 +32,7 @@ Product price: 40.00
 Quantity: 2
 
 ORDER SUMMARY:
-Order moment: 20/04/2018 11:25:09
+Order moment: 28/10/2024 09:56:05
 Order status: PROCESSING
 Client: Alex Green (15/03/1985) - alex@gmail.com
 Order Items:
