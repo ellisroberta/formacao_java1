@@ -5,8 +5,7 @@ Este projeto demonstra a aplicação de enumerações e serialização para um s
 ## Funcionalidades
 
 - Definição de estados do pedido usando Enum.
-- Classe `Order` com serialização e deserialização JSON.
-- Exemplo de uso com escrita e leitura em arquivos.
+- Classe `Order` com serialização e deserialização.
 
 ## Como Executar
 
